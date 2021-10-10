@@ -1,0 +1,7 @@
+En esta clase presenté los avances finales del módulo, que incluían:
+-diagrama de casos de uso
+-diagrama de clases actualizado
+-diagrama de secuencia
+-conexión a git
+-creación de llave
+-aplicación basada en java

@@ -1,0 +1,4 @@
+En esta clase vi tutoriales de como conectar el android studio con mi cuenta de gitHub.
+Encontré que es una herramienta muy potente para trabajar en equipo y/o tener claro las versiones del codigo.
+
+https://github.com/cadiz-cristhian/AppPeliculaV0.1

@@ -1,0 +1,3 @@
+En esta clase comencé a hacer pruebas en android studio, ya que es la primera vez
+que lo ocupo. Para mi el cambio mas grande es tener que utilizar XML para configurar o 
+"dibujar" las vistas de la app. 

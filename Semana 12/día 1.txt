@@ -1,0 +1,5 @@
+En esta clase vi información sobre cómo realizar el diagrama de secuencia
+para poder adaptarlo al proyecto. En el cual el proceso mas importante es 
+la realización del cuestionario ya que debido a el se podrán obtener las 
+recomendaciones.
+

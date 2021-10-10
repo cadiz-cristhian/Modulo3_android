@@ -1,0 +1,3 @@
+En esta clase avancé en la creación del otro diagrama de casos de uso, esta vez 
+para el cuestionario que se le hará al usuario. A la vez comencé a ver videos 
+sobre el diagrama de secuencia.

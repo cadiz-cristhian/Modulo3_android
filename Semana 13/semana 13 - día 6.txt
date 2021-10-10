@@ -1,0 +1,2 @@
+En esta clase revisé tutoriales y paginas de internet para implementar un recyclerview en mi proyecto. Con esto podré 
+mostrar visualmente los items de mi arreglo Peliculas, el cual cambiará segun el resultado del cuestionario. 

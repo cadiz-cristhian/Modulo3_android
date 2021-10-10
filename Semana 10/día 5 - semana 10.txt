@@ -1,0 +1,2 @@
+En esta clase instalé Android studio y comencé a ver como estructurar mi proyecto, el cual para mi es un poco complicado por la parte visual
+ya que nunca había ocupado una IDE de este estilo.

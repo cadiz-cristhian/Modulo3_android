@@ -1,0 +1,2 @@
+En esta clase investigué acerca de la creación de las activitys y como funciona el codigo XML para la parte grafica de estas.
+Para mi proyecto estaré contando con aprox 10 activitys con sus respectivas clases.

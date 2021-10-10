@@ -1,0 +1,8 @@
+EN esta clase hice el "esqueleto visual" de la aplicación. quedó de la siguiente manera
+ ---
+
+Main Activity ( con la posibilidad de logearse al futuro, boton ingresar y opciones)
+Inicio Usuario( donde se indica que se hará un cuestionario)
+Cuestionario
+Resultado ( el cual contará con un recyclerView par apoder desplegar la lista deseada)
+Detalle ( activity que se desplegará con el detalle de la pelicula seleccionada )
